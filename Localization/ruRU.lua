@@ -2,7 +2,7 @@
 -- [[ This code is automatically generated as an export from ]] --
 -- [[ an SQLite database and is not meant for manual edit. ]] --
 
--- [[ English texts by Krowi, 2023-01-20 ]] --
+-- [[ Russian translation by UlyanaLeyana, 2023-03-02 ]] --
 
 -- [[ Namespaces ]] --
 local addonName, addon = ...;
